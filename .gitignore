@@ -3,7 +3,19 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Pp]ackages/
 Assets/AssetStoreTools*
+_Extended/
+Addons/
+Audio/
+Fonts/
+Gizmos/
+Level/
+Props/
+Scenes/
+Tilemaps/
+UI/
+VFX/
 
 # Visual Studio cache directory
 .vs/
@@ -27,6 +39,20 @@ ExportedObj/
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
+*.asset.meta
+*.asset
+*.pdf.meta
+_Extended.meta
+Addons.meta
+Audio.meta
+Fonts.meta
+Gizmos.meta
+Level.meta
+Props.meta
+Scenes.meta
+Tilemaps.meta
+UI.meta
+VFX.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
